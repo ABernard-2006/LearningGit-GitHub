@@ -1,6 +1,7 @@
 #include <stdio.h> //testing email check
 // is this worth it
 // I don't know, i'm just learning
+//check if email changed
 int main()
 {
     int num, yn;            // yn is yes or no
