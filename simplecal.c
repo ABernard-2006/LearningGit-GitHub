@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //testing email check
     
 int main()
 {
