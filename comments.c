@@ -9,4 +9,9 @@ git commit (will not be pushed if not committed even if already added)
 git push 
 */
 
-//Check to see how git ammend function
+//Check how git ammend function
+
+/*
+git commit --amend -m "message" (amends commit)
+git push -f (overwrites previous push)
+*/
