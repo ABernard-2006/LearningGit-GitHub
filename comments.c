@@ -15,3 +15,9 @@ git push
 git commit --amend -m "message" (amends commit)
 git push -f (overwrites previous push)
 */
+
+/*
+    Sync changes from GITHUB to computer
+    1. git clone link folder_name (creates a local copy from the remote)
+    2.
+*/
