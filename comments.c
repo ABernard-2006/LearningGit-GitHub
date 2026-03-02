@@ -8,3 +8,5 @@ git add .
 git commit (will not be pushed if not committed even if already added)
 git push 
 */
+
+//Check to see how git ammend function
